@@ -8,7 +8,7 @@ The application allows users to upload their resume, analyze it using AI, and re
 
 ## 🚀 Live Demo
 
-https://ai-resume-analyzer-ats-km74.vercel.app/?utm_source=chatgpt.com
+https://ai-resume-analyzer-ats-km74.vercel.app/
 
 ---
 
